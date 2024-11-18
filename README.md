@@ -1,1 +1,1 @@
-# This is bookTap
+# This is the BookBot project
